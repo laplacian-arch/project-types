@@ -1,5 +1,5 @@
 project_types:
-- name: arch-model
+- name: function-model
   description: Project for Models describing the components which an enterprise system consists of.
   base_type_name: model
   plugins:
