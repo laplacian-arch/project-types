@@ -9,6 +9,10 @@ project_types:
   - group: laplacian-arch
     name: service-api.domain-model-plugin
     version: '1.0.0'
+  models:
+  - group: laplacian-arch
+    name: project-types
+    version: '1.0.0'
   templates:
   - group: laplacian-arch
     name: datasource.flyway-migration-template

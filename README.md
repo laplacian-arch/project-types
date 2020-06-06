@@ -127,6 +127,12 @@ $ ./script/generate
   >   The repository path to store locally built modules.
   >   The modules in this repository have the highest priority.
   >   
+  > , --updates-scripts-only
+  >
+  >   Updates script files only.
+  >   This option is used to generate the generator script itself
+  >   when the project is initially generated.
+  >   
 - [./script/publish-local.sh](<./scripts/publish-local.sh>)
 
   After the resources in the project are generated,
@@ -160,7 +166,7 @@ $ ./script/generate
 
 
 - [model/project.yaml](<./model/project.yaml>)
-- [src/arch-model.yaml](<./src/arch-model.yaml>)
+- [src/function-model.yaml](<./src/function-model.yaml>)
 - [src/service-generator.yaml](<./src/service-generator.yaml>)
 
 
