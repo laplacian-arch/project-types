@@ -1,6 +1,7 @@
 project_types:
-- name: api-service-generator
-  description: Project for Models describing the components which an enterprise system consists of.
+- name: java-stack-service-generator
+  description: |
+    A project type for projects that generates spring based java stack service.
   base_type_name: generator
   plugins:
   - group: laplacian-arch
