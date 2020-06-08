@@ -1,5 +1,5 @@
 project_types:
-- name: java-stack-service-generator
+- name: java-stack-service
   description: |
     A project type for projects that generates spring based java stack service.
   base_type_name: generator
