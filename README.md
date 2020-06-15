@@ -166,8 +166,8 @@ $ ./script/generate
 
 
 - [model/project.yaml](<./model/project.yaml>)
-- [src/function-model.yaml](<./src/function-model.yaml>)
-- [src/java-stack-service.yaml](<./src/java-stack-service.yaml>)
+- [src/model/function-model.yaml](<./src/model/function-model.yaml>)
+- [src/model/java-stack-service.yaml](<./src/model/java-stack-service.yaml>)
 
 
 <!-- @main-content@ -->
