@@ -22,7 +22,7 @@ project_types:
   - group: laplacian
     name: metamodel
     version: '1.0.0'
-#  templates:
-#  - group: laplacian-arch
-#    name: arch-model.project-template
-#    version: '1.0.0'
+  templates:
+  - group: laplacian-arch
+    name: function-model.project-template
+    version: '1.0.0'
