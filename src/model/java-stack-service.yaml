@@ -16,6 +16,9 @@ project_types:
     version: '1.0.0'
   templates:
   - group: laplacian-arch
+    name: java-stack-service.project-template
+    version: '1.0.0'
+  - group: laplacian-arch
     name: datasource.flyway-migration-template
     version: '1.0.0'
   - group: laplacian-arch
