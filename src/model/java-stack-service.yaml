@@ -5,7 +5,7 @@ project_types:
   base_type_name: generator
   plugins:
   - group: laplacian-arch
-    name: datasource.domain-model-plugin
+    name: deployment.domain-model-plugin
     version: '1.0.0'
   - group: laplacian-arch
     name: api-service.domain-model-plugin
