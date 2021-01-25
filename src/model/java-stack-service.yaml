@@ -19,7 +19,7 @@ project_types:
     name: java-stack-service.project-template
     version: '1.0.0'
   - group: laplacian-arch
-    name: datasource.flyway-migration-template
+    name: dataset.flyway-migration-template
     version: '1.0.0'
   - group: laplacian-arch
     name: api-service.springboot2-template
